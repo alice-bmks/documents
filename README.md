@@ -1,7 +1,8 @@
-# Biomakespace Documents
+Biomakespace Documents
 
 The collection of BiomakeSpace documents.
 
 ## Contents
 
-- [FAQ](faq.md)
+- [Frequently Asked Questions](faq.md)
+- [Code of Conduct](code-of-conduct.md)
