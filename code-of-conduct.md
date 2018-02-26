@@ -20,3 +20,6 @@
  
  At events where there will be photography and upload to social media or other venues, this will be announced. If you do not wish to be photographed, you are responsible for alerting the photographer to move you out of frame. We are happy to accommodate you. For formal media releases, a Media consent form will be issued.
 
+### Refreshments
+
+Also we have tea and biscuits!
