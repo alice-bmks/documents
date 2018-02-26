@@ -1,2 +1,3 @@
-# documents
-The documents for the Biomakespace
+# Biomakespace Documents
+
+The collection of BiomakeSpace documents.
